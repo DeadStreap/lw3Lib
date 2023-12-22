@@ -1,0 +1,15 @@
+{
+    "name": "lw3/library",
+    "autoload": {
+        "psr-4": {
+            "Lw3\\Library\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DeadStreap",
+            "email": "74311984+DeadStreap@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
